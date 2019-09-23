@@ -1,0 +1,1 @@
+https://github.com/okdshin/PicoSHA2/blob/master/picosha2.h
