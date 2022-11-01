@@ -36,7 +36,3 @@ macOS: XCode 8.x or better. Other software needed will be described as required.
 * [C++ Fundamentals [Video]](https://www.packtpub.com/web-development/c-fundamentals)
 
 * [C# 8 and .NET Core 3.0 New Features [Video] [Video]](https://www.packtpub.com/application-development/c-8-and-net-core-30-new-features-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788834995">https://packt.link/free-ebook/9781788834995 </a> </p>
